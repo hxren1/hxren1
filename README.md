@@ -1,4 +1,4 @@
-<h1 align="left"></h1>
+<h6 align="left"></h6>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Desenvolvedor Web</h2>
+<h1 align="left">Desenvolvedor Web</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Redes Sociais</p>
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
