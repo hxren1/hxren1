@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> 📍 Meu nome é Jhonata, tenho 19 anos e estou focado em aprimorar minhas habilidades em Web Design</p>
+
 
 ###
 
