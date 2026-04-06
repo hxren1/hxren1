@@ -39,6 +39,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hxren1/hxren1/output/snake.svg" alt="Snake animation" />
 
 ###
