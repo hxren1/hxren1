@@ -6,11 +6,11 @@
 
 ###
 
-<h1 align="left">Desenvolvedor Web</h1>
+<h1 align="left">Data Analyst</h1>
 
 ###
 
-<p align="left">📚 Atualmente, estou estudando design web e buscando ampliar meus conhecimentos em Front-End, especialmente na linguagem JavaScript. Estou me dedicando a entender melhor as práticas recomendadas e as ferramentas modernas usadas no desenvolvimento de interfaces interativas.</p>
+<p align="left">Estudante de Análise de Dados com conhecimentos em Excel, SQL e Power BI. Possuo perfil analítico, organizado e atento aos detalhes, com grande interesse em atuar na área de dados. Busco minha primeira oportunidade para aplicar e desenvolver minhas habilidades, contribuindo com resultados e crescimento contínuo, tanto profissional quanto da empresa.</p>
 
 ###
 
