@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">🎓 Estudante de Análise de Dados com conhecimentos em Excel, SQL e Power BI.
-📊 Interesse em coleta, tratamento e visualização de dados para geração de insights.
-🧠 Perfil analítico, organizado e orientado a resultados.
-🚀 Em busca da primeira oportunidade na área de dados para aplicar e evoluir minhas habilidades.
-💡 Sempre aprendendo e desenvolvendo projetos práticos na área de tecnologia e dados. </p>
+<p align="left">🎓 Estudante de Análise de Dados com conhecimentos em Excel, SQL e Power BI. </p>
+<p align="left">📊 Interesse em coleta, tratamento e visualização de dados para geração de insights. </p>
+<p align="left">🧠 Perfil analítico, organizado e orientado a resultados. </p>
+<p align="left">🚀 Em busca da primeira oportunidade na área de dados para aplicar e evoluir minhas habilidades. </p>
+<p align="left">💡 Sempre aprendendo e desenvolvendo projetos práticos na área de tecnologia e dados. </p>
 
 ###
 
