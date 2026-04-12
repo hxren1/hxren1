@@ -1,43 +1,18 @@
-<h6 align="left"></h6>
+Analista de Dados & Desenvolvedor Front-End
 
-###
+🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+📊 Grande interesse na área de dados, com foco em coleta, tratamento e geração de insights.
+🎨 Apaixonado por **Front-End**, unindo a lógica de dados com a criação de interfaces modernas e funcionais.
+🧠 Perfil analítico, organizado e sempre em busca de resolver problemas de forma criativa.
+🚀 Em busca de oportunidades para aplicar conhecimentos de tecnologia e evoluir tecnicamente.
 
+## Técnicos
 
-
-###
-
-<h1 align="left">Data Analyst</h1>
-
-###
-
-<p align="left">🎓 Estudante de Análise de Dados com conhecimentos em Excel, SQL e Power BI. </p>
-<p align="left">📊 Interesse em coleta, tratamento e visualização de dados para geração de insights. </p>
-<p align="left">🧠 Perfil analítico, organizado e orientado a resultados. </p>
-<p align="left">🚀 Em busca da primeira oportunidade na área de dados para aplicar e evoluir minhas habilidades. </p>
-<p align="left">💡 Sempre aprendendo e desenvolvendo projetos práticos na área de tecnologia e dados. </p>
-
-###
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
-
-###
-
-
-###
