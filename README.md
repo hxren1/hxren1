@@ -1,10 +1,10 @@
-Analista de Dados & Desenvolvedor Front-End
+<h1> Analista de Dados & Desenvolvedor Front-End </h1>
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
-📊 Grande interesse na área de dados, com foco em coleta, tratamento e geração de insights.
-🎨 Apaixonado por **Front-End**, unindo a lógica de dados com a criação de interfaces modernas e funcionais.
-🧠 Perfil analítico, organizado e sempre em busca de resolver problemas de forma criativa.
-🚀 Em busca de oportunidades para aplicar conhecimentos de tecnologia e evoluir tecnicamente.
+<p>🎓 Cursando **Análise e Desenvolvimento de Sistemas**.</p>
+<p>📊 Grande interesse na área de dados, com foco em coleta, tratamento e geração de insights.</p>
+<p>🎨 Apaixonado por **Front-End**, unindo a lógica de dados com a criação de interfaces modernas e funcionais.</p>
+<p>🧠 Perfil analítico, organizado e sempre em busca de resolver problemas de forma criativa.</p>
+<p>🚀 Em busca de oportunidades para aplicar conhecimentos de tecnologia e evoluir tecnicamente.</p>
 
 ## Técnicos
 
